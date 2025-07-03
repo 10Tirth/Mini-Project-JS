@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    background-color: #ed1b76 ;
 }
 
 .btn {
@@ -20,13 +21,17 @@ body {
 }
 
 .red {
-    background-color: #d95980;
+    background-color: #bc053c;
 }
 
-.green {
-    background-color: #63aac0;
+.blue {
+    background-color: #0a9bc7;
 }
 
 .purple {
-    background-color: #819ff9;
+    background-color: #0436cc;
+}
+
+.flash {
+    background-color: white;
 }
