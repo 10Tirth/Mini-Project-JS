@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #ed1b76 ;
+    background-color: #dc84aa ;
 }
 
 .btn {
@@ -8,7 +8,7 @@ body {
     width: 200px;
     border-radius: 20%;
     border: 10px solid black;
-    margin: 10px;
+    margin: 20px;
 }
 
 .btn-container {
